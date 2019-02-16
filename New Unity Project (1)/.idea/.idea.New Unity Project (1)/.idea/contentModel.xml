@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ysnar\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ysnar\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_New Unity Project (1).2126328622.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ysnar\Desktop\유니티 프로젝트\RaidOrTrade\New Unity Project (1)" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Mouse.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Arrow.cs" t="Include" />
+          <e p="Astar_PathFinding.cs" t="Include" />
+          <e p="CubePlacer.cs" t="Include" />
+          <e p="MainCamera.cs" t="Include" />
+          <e p="Maping.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="Seat.cs" t="Include" />
+          <e p="StoreManager.cs" t="Include" />
+          <e p="Test.cs" t="Include" />
+          <e p="Util.cs" t="Include" />
+        </e>
+        <e p="ShipMovement.cs" t="Include" />
+        <e p="Unity-QuickSheet-master" t="Include">
+          <e p="Assets" t="Include">
+            <e p="QuickSheet" t="Include">
+              <e p="Editor" t="Include">
+                <e p="BaseEditor.cs" t="Include" />
+                <e p="BaseMachine.cs" t="Include" />
+                <e p="BaseMachineEditor.cs" t="Include" />
+                <e p="CustomAssetUtility.cs" t="Include" />
+                <e p="GUIHelper.cs" t="Include" />
+                <e p="ScriptGenerator.cs" t="Include" />
+                <e p="ScriptPrescription.cs" t="Include" />
+                <e p="Util" t="Include">
+                  <e p="Cloner.cs" t="Include" />
+                  <e p="CsvParser.cs" t="Include" />
+                  <e p="Singleton.cs" t="Include" />
+                  <e p="SingletonScriptableObject.cs" t="Include" />
+                  <e p="Util.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Example" t="Include">
+                <e p="Data" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="ExcelExampleAssetPostProcessor.cs" t="Include" />
+                    <e p="ExcelExampleEditor.cs" t="Include" />
+                  </e>
+                  <e p="Runtime" t="Include">
+                    <e p="ExcelExample.cs" t="Include" />
+                    <e p="ExcelExampleData.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Difficulty.cs" t="Include" />
+              </e>
+              <e p="ExcelPlugin" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="BaseExcelEditor.cs" t="Include" />
+                  <e p="ExcelMachine.cs" t="Include" />
+                  <e p="ExcelMachineEditor.cs" t="Include" />
+                  <e p="ExcelQuery.cs" t="Include" />
+                  <e p="ExcelSettings.cs" t="Include" />
+                  <e p="ExcelSettingsEditor.cs" t="Include" />
+                  <e p="Library" t="Include">
+                    <e p="NPOI.2.1.1.txt" t="Include" />
+                    <e p="Release Notes.txt" t="Include" />
+                  </e>
+                </e>
+                <e p="Templates" t="Include">
+                  <e p="DataClass.txt" t="Include" />
+                  <e p="PostProcessor.txt" t="Include" />
+                  <e p="ScriptableObjectClass.txt" t="Include" />
+                  <e p="ScriptableObjectEditorClass.txt" t="Include" />
+                </e>
+              </e>
+              <e p="GDataPlugin" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="BaseGoogleEditor.cs" t="Include" />
+                  <e p="GDataDB" t="Include">
+                    <e p="GDataDB" t="Include">
+                      <e p="DatabaseClient.cs" t="Include" />
+                      <e p="IDatabase.cs" t="Include" />
+                      <e p="IDatabaseClient.cs" t="Include" />
+                      <e p="Impl" t="Include">
+                        <e p="Database.cs" t="Include" />
+                        <e p="GDataDBRequestFactory.cs" t="Include" />
+                        <e p="Row.cs" t="Include" />
+                        <e p="Serializer.cs" t="Include" />
+                        <e p="Table.cs" t="Include" />
+                      </e>
+                      <e p="IRow.cs" t="Include" />
+                      <e p="ITable.cs" t="Include" />
+                      <e p="Order.cs" t="Include" />
+                      <e p="Query.cs" t="Include" />
+                    </e>
+                    <e p="GDataDB.Linq" t="Include">
+                      <e p="Impl" t="Include">
+                        <e p="Evaluator.cs" t="Include" />
+                        <e p="ExpressionVisitor.cs" t="Include" />
+                        <e p="GDataDBQueryProvider.cs" t="Include" />
+                        <e p="OrderTranslator.cs" t="Include" />
+                        <e p="Query.cs" t="Include" />
+                        <e p="QueryProvider.cs" t="Include" />
+                        <e p="QueryTranslator.cs" t="Include" />
+                        <e p="TypeSystem.cs" t="Include" />
+                        <e p="WhereTranslator.cs" t="Include" />
+                      </e>
+                      <e p="ITableExtensions.cs" t="Include" />
+                    </e>
+                    <e p="license.txt" t="Include" />
+                  </e>
+                  <e p="Google" t="Include">
+                    <e p="Google.GData.license.txt" t="Include" />
+                    <e p="license.txt" t="Include" />
+                    <e p="Newtonsoft.Json.xml" t="Include" />
+                  </e>
+                  <e p="GoogleDataSettings.cs" t="Include" />
+                  <e p="GoogleDataSettingsEditor.cs" t="Include" />
+                  <e p="GoogleMachine.cs" t="Include" />
+                  <e p="GoogleMachineEditor.cs" t="Include" />
+                </e>
+                <e p="Templates" t="Include">
+                  <e p="AssetFileClass.txt" t="Include" />
+                  <e p="DataClass.txt" t="Include" />
+                  <e p="ScriptableObjectClass.txt" t="Include" />
+                  <e p="ScriptableObjectEditorClass.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Runtime" t="Include">
+                <e p="ExposePropertyAttribute.cs" t="Include" />
+                <e p="Util" t="Include">
+                  <e p="ConvertExt.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="ProjectSettings" t="Include">
+            <e p="ProjectVersion.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="New Unity Project (1).sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
